@@ -1,0 +1,16 @@
+{
+    "orientation": 180,
+    "spatial_frequency": 0.003,
+    "temporal_frequency": 2.0,
+    "contrast": 1.0,
+    "radius": 400.0,
+    "duration": 2.0,
+    "blank_duration": 0.5,
+    "repeats": 8,
+    "varying": "orientation",
+    "values": [0, 45, 90, 135],
+    "triggers": [1, 2, 3, 4],
+    "sample_rate": 24000,
+    "host-ip": "192.168.1.2",
+    "host-port": 65000
+}
